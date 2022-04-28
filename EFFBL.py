@@ -11,14 +11,8 @@ hour = int(today.strftime("%H"))
 minute = int(today.strftime("%M"))
 
 
-key_array_alt1 = ["9e3c092599mshc4ed6c2082ef471p1d46adjsn81d3ca68f92b",'ec33e994a5msh5a847f6eac534c4p144bfajsnb9c356e592f8',
-             'fd753f8337msh6768cb09a1571dfp129eb4jsn088b0a565f13',"fc16bc3fcbmsh2bd0c21eb41d819p1f2dc1jsn4a3594b43f68",
-             "b30decb8a3msh0e215bf075bcfd9p120b27jsnc33dc960d635"]
-key_array = ["371bac7cffmsh31634f82fd36d9ap1a0645jsn6664e16822f2"]
-key_array_alt = ['ec33e994a5msh5a847f6eac534c4p144bfajsnb9c356e592f8','9e3c092599mshc4ed6c2082ef471p1d46adjsn81d3ca68f92b'
-             "bdfabe5c78msh76b10012304fc3ap15e381jsnb650fc877a9b",
-             "8c373e544bmsh1d9d7c59989b976p1b36c5jsn05ba612ac940",
-             'fd753f8337msh6768cb09a1571dfp129eb4jsn088b0a565f13', "08f605d0a1msha4d33ad7ecb493fp12dfaajsn91deb60e82"]
+
+key_array = ["Get your own API key from RAPID API"]
 
 
 def nonetozero(var):
